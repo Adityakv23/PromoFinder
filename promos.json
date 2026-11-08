@@ -1,0 +1,1685 @@
+[
+ {
+  "ep": 16,
+  "start": 48.8,
+  "end": 83.19,
+  "score": 16.23,
+  "parts": {
+   "hook": 6.4,
+   "cliff": 4.5,
+   "conflict": 1.25,
+   "standalone": 1.0,
+   "length": 1.28
+  },
+  "hook": "ALEXANDER: \"Who?!\"",
+  "cliffhanger": "ALEXANDER: \"No.\"",
+  "why": "shouted line; opens on a question; ends at the episode's own cliffhanger; sound sting at the cut",
+  "rank": 1
+ },
+ {
+  "ep": 15,
+  "start": 47.4,
+  "end": 86.0,
+  "score": 16.11,
+  "parts": {
+   "hook": 4.0,
+   "cliff": 6.0,
+   "conflict": 1.25,
+   "standalone": 1.0,
+   "length": 1.46
+  },
+  "hook": "The Thug with Cap violently shoves Juliana back with both hands; she cries out as she loses her balance and crashes hard onto the wet stone path.",
+  "cliffhanger": "THUG WITH CAP: \"What? You want to fight us, veteran?\"",
+  "why": "physical action; shouted line; ends at the episode's own cliffhanger; sound sting at the cut; last line is a question",
+  "rank": 2
+ },
+ {
+  "ep": 43,
+  "start": 71.4,
+  "end": 109.0,
+  "score": 16.03,
+  "parts": {
+   "hook": 3.9,
+   "cliff": 6.0,
+   "conflict": 1.25,
+   "standalone": 1.0,
+   "length": 1.48
+  },
+  "hook": "BLOND NOBLEMAN: \"I didn't!\"",
+  "cliffhanger": "CATHERINE: \"My Lord?\"",
+  "why": "shouted line; ends at the episode's own cliffhanger; sound sting at the cut; last line is a question",
+  "rank": 3
+ },
+ {
+  "ep": 36,
+  "start": 160.5,
+  "end": 200.75,
+  "score": 15.68,
+  "parts": {
+   "hook": 3.9,
+   "cliff": 5.3,
+   "conflict": 2.0,
+   "standalone": 1.0,
+   "length": 1.36
+  },
+  "hook": "ALEXANDER: \"...and killing my wife afterward.\"",
+  "cliffhanger": "ALEXANDER: \"...their dead Duke is coming home.\"",
+  "why": "shouted line; ends at the episode's own cliffhanger; sound sting at the cut",
+  "rank": 4
+ },
+ {
+  "ep": 35,
+  "start": 104.5,
+  "end": 157.5,
+  "score": 12.85,
+  "parts": {
+   "hook": 2.7,
+   "cliff": 4.5,
+   "conflict": 2.25,
+   "standalone": 1.0,
+   "length": 0.6
+  },
+  "hook": "ALEXANDER'S MOTHER: \"And you?\"",
+  "cliffhanger": "ALEXANDER: \"The men behind it... are the same men ruling Ashwood now.\"",
+  "why": "opens on a question; ends at the episode's own cliffhanger; sound sting at the cut",
+  "rank": 5
+ },
+ {
+  "ep": 3,
+  "start": 58.3,
+  "end": 88.0,
+  "score": 12.15,
+  "parts": {
+   "hook": 4.7,
+   "cliff": 3.0,
+   "conflict": 1.25,
+   "standalone": 1.0,
+   "length": 1.0
+  },
+  "hook": "NOBLE MATRIARCH: \"Guards! Remove her!\"",
+  "cliffhanger": "THE FORMER GROOM: \"What are you waiting for?! He's only one man!\"",
+  "why": "shouted line; physical action; sound sting at the cut; last line is a question",
+  "rank": 6
+ },
+ {
+  "ep": 36,
+  "start": 104.0,
+  "end": 148.0,
+  "score": 12.01,
+  "parts": {
+   "hook": 4.9,
+   "cliff": 2.3,
+   "conflict": 1.75,
+   "standalone": 1.0,
+   "length": 1.14
+  },
+  "hook": "ALEXANDER: \"Arrested?\"",
+  "cliffhanger": "ALEXANDER: \"What wedding?\"",
+  "why": "opens on a question; shouted line; last line is a question",
+  "rank": 7
+ },
+ {
+  "ep": 24,
+  "start": 32.5,
+  "end": 70.5,
+  "score": 11.7,
+  "parts": {
+   "hook": 6.1,
+   "cliff": 1.5,
+   "conflict": 1.0,
+   "standalone": 1.0,
+   "length": 1.5
+  },
+  "hook": "The noblewoman suddenly rears back her riding crop and strikes Juliana violently across the torso.",
+  "cliffhanger": "NOBLEWOMAN: \"Do you want the same punishment?\"",
+  "why": "physical action; last line is a question",
+  "rank": 8
+ },
+ {
+  "ep": 3,
+  "start": 84.0,
+  "end": 136.2,
+  "score": 11.65,
+  "parts": {
+   "hook": 5.9,
+   "cliff": 1.5,
+   "conflict": 2.0,
+   "standalone": 1.0,
+   "length": 0.65
+  },
+  "hook": "The Bearded Stranger effortlessly blocks the guard's strike and drives a devastating strike into him, dropping the armed guard instantly to the floor.",
+  "cliffhanger": "THE BEARDED STRANGER: \"I know enough.\"",
+  "why": "physical action; shouted line; opens on a question; sound sting at the cut",
+  "rank": 9
+ },
+ {
+  "ep": 15,
+  "start": 3.6,
+  "end": 31.2,
+  "score": 11.58,
+  "parts": {
+   "hook": 6.1,
+   "cliff": 1.5,
+   "conflict": 1.5,
+   "standalone": 1.0,
+   "length": 0.88
+  },
+  "hook": "The thug brutally smashes his club down into a wooden planter box, shattering the frame.",
+  "cliffhanger": "TALL THUG: \"Months? You actually spend your days growing this filth?\"",
+  "why": "physical action; last line is a question",
+  "rank": 10
+ },
+ {
+  "ep": 1,
+  "start": 90.9,
+  "end": 137.5,
+  "score": 11.53,
+  "parts": {
+   "hook": 2.5,
+   "cliff": 4.5,
+   "conflict": 0.75,
+   "standalone": 1.0,
+   "length": 0.98
+  },
+  "hook": "MATRIARCH: \"Enough!\"",
+  "cliffhanger": "THE FORMER GROOM: \"...when Clarissa is the true jewel of the county.\"",
+  "why": "shouted line; ends at the episode's own cliffhanger; sound sting at the cut",
+  "rank": 11
+ },
+ {
+  "ep": 42,
+  "start": 23.5,
+  "end": 77.5,
+  "score": 11.26,
+  "parts": {
+   "hook": 5.7,
+   "cliff": 1.8,
+   "conflict": 1.5,
+   "standalone": 1.0,
+   "length": 0.54
+  },
+  "hook": "BLOND NOBLEMAN: \"I said arrest him!\"",
+  "cliffhanger": "ALEXANDER: \"And now, Rupert... we settle what you stole.\"",
+  "why": "shouted line; opens on a question",
+  "rank": 12
+ },
+ {
+  "ep": 7,
+  "start": 68.6,
+  "end": 96.5,
+  "score": 11.21,
+  "parts": {
+   "hook": 3.9,
+   "cliff": 3.0,
+   "conflict": 1.25,
+   "standalone": 1.0,
+   "length": 0.86
+  },
+  "hook": "GERALD: \"And your husband?\" SCENE 02 Scene heading: EXT. FOREST PATH - CONTINUOUS Scene start: 01:09.50 Scene end: 01:15.50 Actions and dialogue:",
+  "cliffhanger": "ARISTOCRATIC WOMAN: \"Leaving? Gerald!\"",
+  "why": "opens on a question; sound sting at the cut; last line is a question",
+  "rank": 13
+ },
+ {
+  "ep": 43,
+  "start": 2.4,
+  "end": 47.4,
+  "score": 11.1,
+  "parts": {
+   "hook": 5.4,
+   "cliff": 0.8,
+   "conflict": 2.5,
+   "standalone": 1.0,
+   "length": 1.08
+  },
+  "hook": "Rupert lunges forward, his facial features contorting in venomous desperation.",
+  "cliffhanger": "CROWN OFFICIAL: \"Duke Alexander Ashburn's unit was ambushed after his location was compromised.\"",
+  "why": "physical action; shouted line",
+  "rank": 14
+ },
+ {
+  "ep": 32,
+  "start": 119.6,
+  "end": 150.8,
+  "score": 11.09,
+  "parts": {
+   "hook": 5.0,
+   "cliff": 2.5,
+   "conflict": 0.5,
+   "standalone": 1.0,
+   "length": 1.09
+  },
+  "hook": "CATHERINE: \"Silence! Silence!\"",
+  "cliffhanger": "CATHERINE: \"You think you can lecture me?!\"",
+  "why": "shouted line; opens on a question; last line is a question",
+  "rank": 15
+ },
+ {
+  "ep": 23,
+  "start": 82.0,
+  "end": 131.2,
+  "score": 11.08,
+  "parts": {
+   "hook": 2.2,
+   "cliff": 4.5,
+   "conflict": 0.75,
+   "standalone": 1.0,
+   "length": 0.83
+  },
+  "hook": "PRUDENCE: \"Poison?\"",
+  "cliffhanger": "PRUDENCE: \"Juliana... someone is coming.\"",
+  "why": "opens on a question; ends at the episode's own cliffhanger; sound sting at the cut",
+  "rank": 16
+ },
+ {
+  "ep": 29,
+  "start": 37.7,
+  "end": 74.3,
+  "score": 11.04,
+  "parts": {
+   "hook": 3.9,
+   "cliff": 2.3,
+   "conflict": 1.5,
+   "standalone": 1.0,
+   "length": 1.42
+  },
+  "hook": "CATHERINE: \"The magistrate will call it witchcraft.\"",
+  "cliffhanger": "CATHERINE: \"Your scarred soldier?\"",
+  "why": "shouted line; last line is a question",
+  "rank": 17
+ },
+ {
+  "ep": 4,
+  "start": 113.0,
+  "end": 151.4,
+  "score": 11.03,
+  "parts": {
+   "hook": 6.1,
+   "cliff": 0.5,
+   "conflict": 1.75,
+   "standalone": 1.0,
+   "length": 1.48
+  },
+  "hook": "THE PRIEST: \"...husband and wife!\"",
+  "cliffhanger": "MYSTERIOUS BEARDED MAN: \"Come, Lady Juliana.\"",
+  "why": "shouted line; episode ends on a soft/resolved beat; sound sting at the cut",
+  "rank": 18
+ },
+ {
+  "ep": 11,
+  "start": 14.4,
+  "end": 56.5,
+  "score": 10.75,
+  "parts": {
+   "hook": 5.4,
+   "cliff": 1.5,
+   "conflict": 1.0,
+   "standalone": 1.0,
+   "length": 1.25
+  },
+  "hook": "JULIANA: \"You have already taken enough from me. Leave!\"",
+  "cliffhanger": "ALEXANDER: \"Let them.\" SCENE 02 Scene heading: INT. COTTAGE – CONTINUOUS Scene start: 00:54.00 Scene end: 01:52.75 Actions and dialogue:",
+  "why": "shouted line; sound sting at the cut",
+  "rank": 19
+ },
+ {
+  "ep": 27,
+  "start": 123.1,
+  "end": 143.8,
+  "score": 10.63,
+  "parts": {
+   "hook": 5.9,
+   "cliff": 1.8,
+   "conflict": 0.75,
+   "standalone": 1.0,
+   "length": 0.46
+  },
+  "hook": "LADY CATHERINE: \"You hear that?!\"",
+  "cliffhanger": "BLOND NOBLEMAN: \"She secretly administers an unidentified substance to a helpless woman.\"",
+  "why": "shouted line; opens on a question",
+  "rank": 20
+ },
+ {
+  "ep": 50,
+  "start": 40.4,
+  "end": 78.6,
+  "score": 10.49,
+  "parts": {
+   "hook": 1.2,
+   "cliff": 4.5,
+   "conflict": 0.5,
+   "standalone": 1.0,
+   "length": 1.49
+  },
+  "hook": "FATHER THOMAS: \"For as long as it holds.\"",
+  "cliffhanger": "CATHERINE: \"Or perhaps discretion isn't the only thing you've developed a taste for.\"",
+  "why": "ends at the episode's own cliffhanger; sound sting at the cut",
+  "rank": 21
+ },
+ {
+  "ep": 26,
+  "start": 56.0,
+  "end": 115.5,
+  "score": 10.48,
+  "parts": {
+   "hook": 2.4,
+   "cliff": 3.3,
+   "conflict": 2.25,
+   "standalone": 1.0,
+   "length": 0.21
+  },
+  "hook": "DOWAGER DUCHESS: \"Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?\"",
+  "cliffhanger": "DOWAGER DUCHESS: \"Where... where... Where did you get this ring? Speak to me!\"",
+  "why": "opens on a question; last line is a question",
+  "rank": 22
+ },
+ {
+  "ep": 27,
+  "start": 35.2,
+  "end": 73.7,
+  "score": 10.47,
+  "parts": {
+   "hook": 4.9,
+   "cliff": 1.5,
+   "conflict": 1.0,
+   "standalone": 1.0,
+   "length": 1.47
+  },
+  "hook": "DOWAGER DUCHESS: \"My lost son wore that ring!\"",
+  "cliffhanger": "BLOND NOBLEMAN: \"What is this?\"",
+  "why": "shouted line; opens on a question; last line is a question",
+  "rank": 23
+ },
+ {
+  "ep": 29,
+  "start": 69.8,
+  "end": 114.8,
+  "score": 10.43,
+  "parts": {
+   "hook": 4.1,
+   "cliff": 2.5,
+   "conflict": 0.75,
+   "standalone": 1.0,
+   "length": 1.08
+  },
+  "hook": "JULIANA: \"My husband will find me.\"",
+  "cliffhanger": "JULIANA: \"They took her locket. But they will not take Alexander from me.\"",
+  "why": "opens on a question; sound sting at the cut",
+  "rank": 24
+ },
+ {
+  "ep": 34,
+  "start": 85.0,
+  "end": 126.4,
+  "score": 10.35,
+  "parts": {
+   "hook": 4.7,
+   "cliff": 1.5,
+   "conflict": 1.25,
+   "standalone": 1.0,
+   "length": 1.3
+  },
+  "hook": "Lady Juliana slams her cuffed hands against the wooden railing of the dock, her voice ringing out in indignant fury.",
+  "cliffhanger": "JUDGE: \"You admit you administered them?\"",
+  "why": "physical action; shouted line; last line is a question",
+  "rank": 25
+ },
+ {
+  "ep": 45,
+  "start": 22.9,
+  "end": 70.5,
+  "score": 10.29,
+  "parts": {
+   "hook": 3.4,
+   "cliff": 2.3,
+   "conflict": 1.75,
+   "standalone": 1.0,
+   "length": 0.92
+  },
+  "hook": "JULIANA: \"You're the Duke?\"",
+  "cliffhanger": "CATHERINE: \"Wife?!\"",
+  "why": "opens on a question; last line is a question",
+  "rank": 26
+ },
+ {
+  "ep": 14,
+  "start": 58.5,
+  "end": 87.63,
+  "score": 10.27,
+  "parts": {
+   "hook": 1.0,
+   "cliff": 4.5,
+   "conflict": 1.0,
+   "standalone": 1.0,
+   "length": 0.97
+  },
+  "hook": "ALEXANDER: \"I'm sorry.\"",
+  "cliffhanger": "ALEXANDER: \"No one will ever hurt you for protecting me again.\"",
+  "why": "ends at the episode's own cliffhanger; sound sting at the cut",
+  "rank": 27
+ },
+ {
+  "ep": 28,
+  "start": 38.2,
+  "end": 75.1,
+  "score": 10.23,
+  "parts": {
+   "hook": 4.7,
+   "cliff": 1.5,
+   "conflict": 1.0,
+   "standalone": 1.0,
+   "length": 1.43
+  },
+  "hook": "DOWAGER DUCHESS: \"I was poisoned!\"",
+  "cliffhanger": "CATHERINE: \"Where did a gutter rat like you find a silver locket?\"",
+  "why": "shouted line; last line is a question",
+  "rank": 28
+ },
+ {
+  "ep": 18,
+  "start": 84.0,
+  "end": 115.5,
+  "score": 10.16,
+  "parts": {
+   "hook": 4.7,
+   "cliff": 1.5,
+   "conflict": 1.25,
+   "standalone": 1.0,
+   "length": 1.11
+  },
+  "hook": "JULIANA: \"Alexander!\"",
+  "cliffhanger": "ALEXANDER: \"Hold on to me.\"",
+  "why": "shouted line; physical action; sound sting at the cut",
+  "rank": 29
+ },
+ {
+  "ep": 28,
+  "start": 75.4,
+  "end": 125.7,
+  "score": 9.86,
+  "parts": {
+   "hook": 4.0,
+   "cliff": 1.5,
+   "conflict": 2.0,
+   "standalone": 1.0,
+   "length": 0.76
+  },
+  "hook": "JULIANA: \"Give it back!\"",
+  "cliffhanger": "CATHERINE: \"And this?\"",
+  "why": "shouted line; last line is a question",
+  "rank": 30
+ },
+ {
+  "ep": 11,
+  "start": 58.0,
+  "end": 84.0,
+  "score": 9.75,
+  "parts": {
+   "hook": 4.0,
+   "cliff": 2.3,
+   "conflict": 0.75,
+   "standalone": 1.0,
+   "length": 0.78
+  },
+  "hook": "JULIANA: \"Stop! Those are my mother's medicines!\"",
+  "cliffhanger": "GERALD: \"What is it, soldier? Going to strike a gentleman in front of his wife?\"",
+  "why": "shouted line; physical action; last line is a question",
+  "rank": 31
+ },
+ {
+  "ep": 34,
+  "start": 35.3,
+  "end": 75.5,
+  "score": 9.67,
+  "parts": {
+   "hook": 4.7,
+   "cliff": 1.5,
+   "conflict": 0.5,
+   "standalone": 1.0,
+   "length": 1.37
+  },
+  "hook": "The Judge furiously raises his wooden gavel and strikes the sound block with sharp force.",
+  "cliffhanger": "JUDGE: \"And did she speak words you could not understand?\"",
+  "why": "physical action; shouted line; last line is a question",
+  "rank": 32
+ },
+ {
+  "ep": 32,
+  "start": 43.4,
+  "end": 79.4,
+  "score": 9.6,
+  "parts": {
+   "hook": 3.5,
+   "cliff": 2.3,
+   "conflict": 0.5,
+   "standalone": 1.0,
+   "length": 1.38
+  },
+  "hook": "CATHERINE: \"You still think you are better?!\"",
+  "cliffhanger": "CATHERINE: \"Your soldier?\"",
+  "why": "shouted line; opens on a question; last line is a question",
+  "rank": 33
+ },
+ {
+  "ep": 40,
+  "start": 42.0,
+  "end": 81.0,
+  "score": 9.36,
+  "parts": {
+   "hook": 2.7,
+   "cliff": 2.3,
+   "conflict": 1.0,
+   "standalone": 1.0,
+   "length": 1.44
+  },
+  "hook": "LADY HARRINGTON: \"We have an excellent view.\"",
+  "cliffhanger": "ELDER NOBLEMAN: \"And its witch will be dead.\" SCENE 04 Scene heading: INT. CATHEDRAL – CONTINUOUS Scene start: 01:18.50 Scene end: 01:50.08 Actions and dialogue:",
+  "why": "opens on a question; sound sting at the cut",
+  "rank": 34
+ },
+ {
+  "ep": 8,
+  "start": 15.1,
+  "end": 62.8,
+  "score": 9.29,
+  "parts": {
+   "hook": 3.4,
+   "cliff": 2.3,
+   "conflict": 0.75,
+   "standalone": 1.0,
+   "length": 0.92
+  },
+  "hook": "JULIANA: \"How do you know that?\"",
+  "cliffhanger": "JULIANA: \"And the scars... were they from the war?\"",
+  "why": "opens on a question; last line is a question",
+  "rank": 35
+ },
+ {
+  "ep": 44,
+  "start": 44.2,
+  "end": 70.4,
+  "score": 9.29,
+  "parts": {
+   "hook": 3.5,
+   "cliff": 2.5,
+   "conflict": 0.5,
+   "standalone": 1.0,
+   "length": 0.79
+  },
+  "hook": "CATHERINE: \"You don't remember?\"",
+  "cliffhanger": "CATHERINE: \"Her?!\"",
+  "why": "opens on a question; shouted line; last line is a question",
+  "rank": 36
+ },
+ {
+  "ep": 12,
+  "start": 26.8,
+  "end": 71.2,
+  "score": 9.24,
+  "parts": {
+   "hook": 4.0,
+   "cliff": 0.8,
+   "conflict": 2.0,
+   "standalone": 1.0,
+   "length": 1.12
+  },
+  "hook": "Juliana lunges a step forward, jabbing an accusing finger toward Gerald.",
+  "cliffhanger": "CLARISSA: \"Fail, or refuse, and your husband hangs from the gallows.\"",
+  "why": "physical action; shouted line",
+  "rank": 37
+ },
+ {
+  "ep": 46,
+  "start": 96.8,
+  "end": 142.0,
+  "score": 9.24,
+  "parts": {
+   "hook": 2.9,
+   "cliff": 1.8,
+   "conflict": 1.75,
+   "standalone": 1.0,
+   "length": 1.07
+  },
+  "hook": "HIGH PRIEST: \"And I have the power to undo in one hearing what took you three years to steal!\"",
+  "cliffhanger": "HIGH PRIEST: \"Ten days, Duke. Choose your witnesses well.\"",
+  "why": "shouted line",
+  "rank": 38
+ },
+ {
+  "ep": 16,
+  "start": 25.8,
+  "end": 50.0,
+  "score": 8.95,
+  "parts": {
+   "hook": 4.7,
+   "cliff": 1.5,
+   "conflict": 0.5,
+   "standalone": 1.0,
+   "length": 0.65
+  },
+  "hook": "THIRD THUG: \"Stay back!\"",
+  "cliffhanger": "ALEXANDER: \"Who?!\"",
+  "why": "shouted line; physical action; last line is a question",
+  "rank": 39
+ },
+ {
+  "ep": 1,
+  "start": 54.7,
+  "end": 98.2,
+  "score": 8.92,
+  "parts": {
+   "hook": 3.4,
+   "cliff": 1.5,
+   "conflict": 1.25,
+   "standalone": 1.0,
+   "length": 1.17
+  },
+  "hook": "LADY JULIANA: \"You let me dress in my mother's gown...\"",
+  "cliffhanger": "LADY JULIANA: \"Embarrassed you?\"",
+  "why": "shouted line; last line is a question",
+  "rank": 40
+ },
+ {
+  "ep": 13,
+  "start": 78.5,
+  "end": 112.0,
+  "score": 8.88,
+  "parts": {
+   "hook": 4.0,
+   "cliff": 1.0,
+   "conflict": 1.25,
+   "standalone": 1.0,
+   "length": 1.23
+  },
+  "hook": "JULIANA: \"Ah!\"",
+  "cliffhanger": "JULIANA: \"Please, ring... you have to be here.\"",
+  "why": "shouted line; physical action",
+  "rank": 41
+ },
+ {
+  "ep": 30,
+  "start": 120.0,
+  "end": 151.21,
+  "score": 8.84,
+  "parts": {
+   "hook": 2.0,
+   "cliff": 2.5,
+   "conflict": 1.25,
+   "standalone": 1.0,
+   "length": 1.09
+  },
+  "hook": "RUPERT: \"And Juliana?\"",
+  "cliffhanger": "ELDER NOBLEMAN: \"Tomorrow, she stops being a prisoner. She becomes a witch.\" SCENE 03 Scene heading: INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT Scene start: 02:24.50 Scene end:",
+  "why": "opens on a question; sound sting at the cut",
+  "rank": 42
+ },
+ {
+  "ep": 18,
+  "start": 56.5,
+  "end": 90.0,
+  "score": 8.83,
+  "parts": {
+   "hook": 4.0,
+   "cliff": 1.5,
+   "conflict": 0.5,
+   "standalone": 1.0,
+   "length": 1.23
+  },
+  "hook": "JULIANA: \"The ledger!\"",
+  "cliffhanger": "ALEXANDER: \"Down!\"",
+  "why": "shouted line; physical action; sound sting at the cut",
+  "rank": 43
+ },
+ {
+  "ep": 38,
+  "start": 43.2,
+  "end": 87.0,
+  "score": 8.75,
+  "parts": {
+   "hook": 3.7,
+   "cliff": 2.3,
+   "conflict": 1.25,
+   "standalone": -0.5,
+   "length": 1.08
+  },
+  "hook": "JULIANA: \"Do you know they condemned me?\"",
+  "cliffhanger": "JULIANA: \"The wedding.\"",
+  "why": "opens on a question; sound sting at the cut",
+  "rank": 44
+ },
+ {
+  "ep": 22,
+  "start": 96.0,
+  "end": 128.8,
+  "score": 8.69,
+  "parts": {
+   "hook": 2.5,
+   "cliff": 2.5,
+   "conflict": 0.5,
+   "standalone": 1.0,
+   "length": 1.19
+  },
+  "hook": "Prudence rushes into frame, grabbing Juliana's arm to keep her moving.",
+  "cliffhanger": "LADY JULIANA: \"Who has been treating you?\"",
+  "why": "physical action; last line is a question",
+  "rank": 45
+ },
+ {
+  "ep": 21,
+  "start": 48.9,
+  "end": 99.2,
+  "score": 8.61,
+  "parts": {
+   "hook": 4.0,
+   "cliff": 1.5,
+   "conflict": 0.75,
+   "standalone": 1.0,
+   "length": 0.76
+  },
+  "hook": "LADY JULIANA: \"Prudence, fetch hot water immediately!\"",
+  "cliffhanger": "LADY JULIANA: \"What do you mean? Is someone ill? The Dowager Duchess?\"",
+  "why": "shouted line; last line is a question",
+  "rank": 46
+ },
+ {
+  "ep": 26,
+  "start": 14.2,
+  "end": 62.0,
+  "score": 8.58,
+  "parts": {
+   "hook": 1.7,
+   "cliff": 2.3,
+   "conflict": 1.75,
+   "standalone": 1.0,
+   "length": 0.91
+  },
+  "hook": "DOWAGER DUCHESS: \"Who are you? Speak to me. I have not seen your face before.\"",
+  "cliffhanger": "DOWAGER DUCHESS: \"Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?\"",
+  "why": "opens on a question; last line is a question",
+  "rank": 47
+ },
+ {
+  "ep": 38,
+  "start": 16.0,
+  "end": 47.5,
+  "score": 8.53,
+  "parts": {
+   "hook": 2.7,
+   "cliff": 2.3,
+   "conflict": 0.5,
+   "standalone": 1.0,
+   "length": 1.11
+  },
+  "hook": "JULIANA: \"Why?\"",
+  "cliffhanger": "JULIANA: \"What if I die here?\"",
+  "why": "opens on a question; last line is a question",
+  "rank": 48
+ },
+ {
+  "ep": 37,
+  "start": 66.5,
+  "end": 119.8,
+  "score": 8.45,
+  "parts": {
+   "hook": 1.9,
+   "cliff": 2.3,
+   "conflict": 1.75,
+   "standalone": 1.0,
+   "length": 0.58
+  },
+  "hook": "NOBLEMAN: \"A public execution after a wedding.\"",
+  "cliffhanger": "NOBLEMAN: \"Do you think she'll actually be executed?\"",
+  "why": "last line is a question",
+  "rank": 49
+ },
+ {
+  "ep": 35,
+  "start": 50.0,
+  "end": 91.5,
+  "score": 8.39,
+  "parts": {
+   "hook": 2.5,
+   "cliff": 1.5,
+   "conflict": 1.5,
+   "standalone": 1.0,
+   "length": 1.29
+  },
+  "hook": "She leans back slightly, her frail hand reaching up to gently cup his bearded, scarred cheek, staring into his eyes in disbelief.",
+  "cliffhanger": "ALEXANDER'S MOTHER: \"A traitor?\"",
+  "why": "last line is a question",
+  "rank": 50
+ },
+ {
+  "ep": 47,
+  "start": 63.5,
+  "end": 98.8,
+  "score": 8.39,
+  "parts": {
+   "hook": 2.7,
+   "cliff": 1.5,
+   "conflict": 1.25,
+   "standalone": 1.0,
+   "length": 1.34
+  },
+  "hook": "CATHERINE: \"London closed its doors! My family disowned me!\"",
+  "cliffhanger": "CATHERINE: \"You want me? As a guest?\"",
+  "why": "shouted line; last line is a question",
+  "rank": 51
+ },
+ {
+  "ep": 19,
+  "start": 76.5,
+  "end": 112.5,
+  "score": 8.38,
+  "parts": {
+   "hook": 3.1,
+   "cliff": 1.0,
+   "conflict": 1.5,
+   "standalone": 1.0,
+   "length": 1.38
+  },
+  "hook": "ALEXANDER: \"My mother is a prisoner in her own house.\"",
+  "cliffhanger": "JULIANA: \"You make it sound so simple.\"",
+  "why": "high dialogue density",
+  "rank": 52
+ },
+ {
+  "ep": 4,
+  "start": 82.0,
+  "end": 116.8,
+  "score": 8.28,
+  "parts": {
+   "hook": 2.0,
+   "cliff": 2.3,
+   "conflict": 0.75,
+   "standalone": 1.0,
+   "length": 1.31
+  },
+  "hook": "THE PRIEST: \"My- My Lady...\"",
+  "cliffhanger": "GERALD: \"You have thrown yourself away!\"",
+  "why": "opens on a question; sound sting at the cut",
+  "rank": 53
+ },
+ {
+  "ep": 30,
+  "start": 83.2,
+  "end": 121.5,
+  "score": 8.28,
+  "parts": {
+   "hook": 2.7,
+   "cliff": 1.5,
+   "conflict": 1.0,
+   "standalone": 1.0,
+   "length": 1.48
+  },
+  "hook": "CATHERINE: \"And if she claims she is a healer?\"",
+  "cliffhanger": "RUPERT: \"And Juliana?\"",
+  "why": "opens on a question; last line is a question",
+  "rank": 54
+ },
+ {
+  "ep": 5,
+  "start": 54.5,
+  "end": 96.5,
+  "score": 8.13,
+  "parts": {
+   "hook": 4.0,
+   "cliff": 0.8,
+   "conflict": 0.75,
+   "standalone": 1.0,
+   "length": 1.26
+  },
+  "hook": "Lady Ashcroft snatches the heavy book away and flings it disdainfully into the rain-soaked courtyard.",
+  "cliffhanger": "GERALD: \"A noblewoman reduced to a beggar's wife!\"",
+  "why": "physical action; shouted line",
+  "rank": 55
+ },
+ {
+  "ep": 20,
+  "start": 70.6,
+  "end": 109.0,
+  "score": 8.13,
+  "parts": {
+   "hook": 4.0,
+   "cliff": 1.0,
+   "conflict": 0.25,
+   "standalone": 1.0,
+   "length": 1.48
+  },
+  "hook": "SEAMUS: \"You are a viscount's daughter!\"",
+  "cliffhanger": "CATHERINE: \"...Ashbury will finally belong to us.\"",
+  "why": "shouted line",
+  "rank": 56
+ },
+ {
+  "ep": 40,
+  "start": 5.5,
+  "end": 45.2,
+  "score": 8.07,
+  "parts": {
+   "hook": 1.2,
+   "cliff": 2.3,
+   "conflict": 1.25,
+   "standalone": 1.0,
+   "length": 1.4
+  },
+  "hook": "FOOTMAN: \"The Harrington family.\"",
+  "cliffhanger": "LORD HARRINGTON: \"Of the wedding?\"",
+  "why": "last line is a question",
+  "rank": 57
+ },
+ {
+  "ep": 20,
+  "start": 2.9,
+  "end": 39.1,
+  "score": 7.99,
+  "parts": {
+   "hook": 2.5,
+   "cliff": 1.5,
+   "conflict": 1.0,
+   "standalone": 1.0,
+   "length": 1.39
+  },
+  "hook": "CATHERINE: \"Two lumps of sugar, Rupert?\"",
+  "cliffhanger": "CATHERINE: \"How much longer can the frail thing survive?\"",
+  "why": "opens on a question; last line is a question",
+  "rank": 58
+ },
+ {
+  "ep": 7,
+  "start": 33.2,
+  "end": 71.2,
+  "score": 7.97,
+  "parts": {
+   "hook": 1.5,
+   "cliff": 2.3,
+   "conflict": 0.75,
+   "standalone": 1.0,
+   "length": 1.5
+  },
+  "hook": "ARISTOCRATIC WOMAN: \"Home? Look at your hands, Juliana.\"",
+  "cliffhanger": "GERALD: \"Where is that beggar husband?\"",
+  "why": "opens on a question; last line is a question",
+  "rank": 59
+ },
+ {
+  "ep": 45,
+  "start": 68.8,
+  "end": 91.0,
+  "score": 7.85,
+  "parts": {
+   "hook": 3.7,
+   "cliff": 1.5,
+   "conflict": 0.5,
+   "standalone": 1.0,
+   "length": 0.55
+  },
+  "hook": "CATHERINE: \"Wife?!\"",
+  "cliffhanger": "RUPERT: \"Juliana?!\"",
+  "why": "shouted line; opens on a question; sound sting at the cut",
+  "rank": 60
+ },
+ {
+  "ep": 37,
+  "start": 10.8,
+  "end": 57.2,
+  "score": 7.8,
+  "parts": {
+   "hook": 2.7,
+   "cliff": 1.5,
+   "conflict": 1.0,
+   "standalone": 1.0,
+   "length": 1.0
+  },
+  "hook": "CATHERINE: \"The wedding?\"",
+  "cliffhanger": "NOBLEMAN: \"What?\"",
+  "why": "opens on a question; last line is a question",
+  "rank": 61
+ },
+ {
+  "ep": 24,
+  "start": 4.0,
+  "end": 36.8,
+  "score": 7.74,
+  "parts": {
+   "hook": 2.2,
+   "cliff": 1.5,
+   "conflict": 1.25,
+   "standalone": 1.0,
+   "length": 1.19
+  },
+  "hook": "The noblewoman halts in the center of the chamber, tapping her riding crop against her gloved palm as her cold gaze sweeps across the two maids.",
+  "cliffhanger": "NOBLEWOMAN: \"You are a maid.\"",
+  "why": "opens on a question; sound sting at the cut",
+  "rank": 62
+ },
+ {
+  "ep": 25,
+  "start": 112.2,
+  "end": 142.4,
+  "score": 7.5,
+  "parts": {
+   "hook": 1.5,
+   "cliff": 2.3,
+   "conflict": 0.75,
+   "standalone": 1.0,
+   "length": 1.03
+  },
+  "hook": "ALEXANDER: \"Will you be going there again?\"",
+  "cliffhanger": "ALEXANDER: \"Worry? They struck you. They could have killed you.\"",
+  "why": "opens on a question; last line is a question",
+  "rank": 63
+ },
+ {
+  "ep": 25,
+  "start": 135.0,
+  "end": 168.0,
+  "score": 7.5,
+  "parts": {
+   "hook": 3.4,
+   "cliff": 1.0,
+   "conflict": 0.5,
+   "standalone": 1.0,
+   "length": 1.2
+  },
+  "hook": "JULIANA: \"I knew you would worry.\"",
+  "cliffhanger": "ALEXANDER: \"Everything you saw.\"",
+  "why": "opens on a question",
+  "rank": 64
+ },
+ {
+  "ep": 33,
+  "start": 68.5,
+  "end": 111.5,
+  "score": 7.5,
+  "parts": {
+   "hook": 2.7,
+   "cliff": 1.5,
+   "conflict": 0.5,
+   "standalone": 1.0,
+   "length": 1.2
+  },
+  "hook": "The maid gasps in sheer terror, her chest heaving as tears stream.",
+  "cliffhanger": "LORD: \"Praying... or chanting?\"",
+  "why": "shouted line; last line is a question",
+  "rank": 65
+ },
+ {
+  "ep": 2,
+  "start": 0.0,
+  "end": 37.1,
+  "score": 7.45,
+  "parts": {
+   "hook": 1.9,
+   "cliff": 1.5,
+   "conflict": 1.0,
+   "standalone": 1.0,
+   "length": 1.45
+  },
+  "hook": "THE FORMER GROOM: \"I cannot marry you, Juliana.\"",
+  "cliffhanger": "LADY JULIANA: \"Surely you will not let him humiliate me like this?\"",
+  "why": "last line is a question",
+  "rank": 66
+ },
+ {
+  "ep": 33,
+  "start": 132.0,
+  "end": 174.04,
+  "score": 7.41,
+  "parts": {
+   "hook": 3.5,
+   "cliff": 1.0,
+   "conflict": 0.25,
+   "standalone": 1.0,
+   "length": 1.26
+  },
+  "hook": "LORD: \"That will be your testimony.\"",
+  "cliffhanger": "LORD: \"Save your tears for the trial.\"",
+  "why": "shouted line; opens on a question",
+  "rank": 67
+ },
+ {
+  "ep": 13,
+  "start": 47.2,
+  "end": 70.2,
+  "score": 7.37,
+  "parts": {
+   "hook": 3.4,
+   "cliff": 0.8,
+   "conflict": 1.25,
+   "standalone": 1.0,
+   "length": 0.6
+  },
+  "hook": "ALEXANDER: \"Juliana, stop!\"",
+  "cliffhanger": "GERALD: \"Keep searching, Juliana. Your husband's freedom is somewhere in that garden.\"",
+  "why": "shouted line",
+  "rank": 68
+ },
+ {
+  "ep": 49,
+  "start": 72.6,
+  "end": 112.8,
+  "score": 7.34,
+  "parts": {
+   "hook": 1.0,
+   "cliff": 2.3,
+   "conflict": 0.75,
+   "standalone": 1.0,
+   "length": 1.37
+  },
+  "hook": "FATHER THOMAS: \"What is it you actually need from me, Catherine? Say it plainly, for once.\"",
+  "cliffhanger": "FATHER THOMAS: \"If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me when the Duke finds out a crowned priest conspired against h",
+  "why": "opens on a question; last line is a question",
+  "rank": 69
+ },
+ {
+  "ep": 39,
+  "start": 30.8,
+  "end": 77.2,
+  "score": 7.32,
+  "parts": {
+   "hook": 3.2,
+   "cliff": 0.8,
+   "conflict": 1.0,
+   "standalone": 1.0,
+   "length": 1.0
+  },
+  "hook": "CART DRIVER: \"Firewood for the kitchens, sir.\"",
+  "cliffhanger": "LOYALIST: \"Your Grace.\"",
+  "why": "physical action",
+  "rank": 70
+ },
+ {
+  "ep": 5,
+  "start": 29.5,
+  "end": 58.2,
+  "score": 7.29,
+  "parts": {
+   "hook": 3.0,
+   "cliff": 1.5,
+   "conflict": 0.25,
+   "standalone": 1.0,
+   "length": 0.94
+  },
+  "hook": "JULIANA: \"You truly mean it? You are my father!\"",
+  "cliffhanger": "JULIANA: \"Barbara, don't!\"",
+  "why": "shouted line; opens on a question; sound sting at the cut",
+  "rank": 71
+ },
+ {
+  "ep": 49,
+  "start": 104.2,
+  "end": 142.5,
+  "score": 7.28,
+  "parts": {
+   "hook": 2.4,
+   "cliff": 1.0,
+   "conflict": 1.0,
+   "standalone": 1.0,
+   "length": 1.48
+  },
+  "hook": "FATHER THOMAS: \"If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me when the Duke finds out a crowned priest cons",
+  "cliffhanger": "FATHER THOMAS: \"Then we understand each other.\"",
+  "why": "opens on a question",
+  "rank": 72
+ },
+ {
+  "ep": 9,
+  "start": 86.6,
+  "end": 111.2,
+  "score": 7.22,
+  "parts": {
+   "hook": 2.0,
+   "cliff": 1.8,
+   "conflict": 1.0,
+   "standalone": 1.0,
+   "length": 0.7
+  },
+  "hook": "BLOND NOBLEMAN: \"What is it?\"",
+  "cliffhanger": "BLOND NOBLEMAN: \"Impossible.\"",
+  "why": "opens on a question",
+  "rank": 73
+ },
+ {
+  "ep": 22,
+  "start": 49.5,
+  "end": 84.5,
+  "score": 7.17,
+  "parts": {
+   "hook": 2.5,
+   "cliff": 1.5,
+   "conflict": 0.25,
+   "standalone": 1.0,
+   "length": 1.32
+  },
+  "hook": "HOUSEKEEPER: \"She looks soft.\"",
+  "cliffhanger": "LADY JULIANA: \"Where is the West Wing?\"",
+  "why": "physical action; last line is a question",
+  "rank": 74
+ },
+ {
+  "ep": 2,
+  "start": 63.5,
+  "end": 107.4,
+  "score": 7.12,
+  "parts": {
+   "hook": 1.2,
+   "cliff": 1.8,
+   "conflict": 1.25,
+   "standalone": 1.0,
+   "length": 1.15
+  },
+  "hook": "The matriarch steps into the center aisle, glaring down at Juliana with cold superiority.",
+  "cliffhanger": "LADY JULIANA: \"...but I will not leave it believing I was the one who should be ashamed.\"",
+  "why": "high dialogue density",
+  "rank": 75
+ },
+ {
+  "ep": 17,
+  "start": 21.5,
+  "end": 59.8,
+  "score": 7.08,
+  "parts": {
+   "hook": 2.0,
+   "cliff": 1.5,
+   "conflict": 0.5,
+   "standalone": 1.0,
+   "length": 1.48
+  },
+  "hook": "ALEXANDER: \"I would do it again.\"",
+  "cliffhanger": "ALEXANDER: \"Of them?\"",
+  "why": "opens on a question; last line is a question",
+  "rank": 76
+ },
+ {
+  "ep": 44,
+  "start": 9.1,
+  "end": 46.4,
+  "score": 7.06,
+  "parts": {
+   "hook": 2.0,
+   "cliff": 1.5,
+   "conflict": 0.5,
+   "standalone": 1.0,
+   "length": 1.46
+  },
+  "hook": "LORD STERLING: \"You have no authority!\"",
+  "cliffhanger": "CATHERINE: \"You don't remember?\"",
+  "why": "shouted line; last line is a question",
+  "rank": 77
+ },
+ {
+  "ep": 10,
+  "start": 5.1,
+  "end": 53.3,
+  "score": 6.99,
+  "parts": {
+   "hook": 2.5,
+   "cliff": 1.5,
+   "conflict": 0.5,
+   "standalone": 1.0,
+   "length": 0.89
+  },
+  "hook": "JULIANA: \"Alexander!\"",
+  "cliffhanger": "JULIANA: \"Does it hurt?\"",
+  "why": "shouted line; last line is a question",
+  "rank": 78
+ },
+ {
+  "ep": 46,
+  "start": 76.8,
+  "end": 100.4,
+  "score": 6.96,
+  "parts": {
+   "hook": 3.2,
+   "cliff": 0.8,
+   "conflict": 1.0,
+   "standalone": 1.0,
+   "length": 0.64
+  },
+  "hook": "JULIANA: \"A church chained me.\"",
+  "cliffhanger": "HIGH PRIEST: \"And I have the power to undo in one hearing what took you three years to steal!\"",
+  "why": "shouted line",
+  "rank": 79
+ },
+ {
+  "ep": 47,
+  "start": 99.2,
+  "end": 131.2,
+  "score": 6.91,
+  "parts": {
+   "hook": 2.0,
+   "cliff": 1.8,
+   "conflict": 0.25,
+   "standalone": 1.0,
+   "length": 1.14
+  },
+  "hook": "JULIANA: \"As a scullery maid.\"",
+  "cliffhanger": "CATHERINE: \"I accept, Your Grace.\"",
+  "why": "opens on a question",
+  "rank": 80
+ },
+ {
+  "ep": 9,
+  "start": 4.8,
+  "end": 35.8,
+  "score": 6.88,
+  "parts": {
+   "hook": 2.2,
+   "cliff": 1.5,
+   "conflict": 0.5,
+   "standalone": 1.0,
+   "length": 1.08
+  },
+  "hook": "Alexander steps forward and unlatches the cottage door, opening it into the pouring rain.",
+  "cliffhanger": "ALEXANDER: \"You're certain?\"",
+  "why": "shouted line; last line is a question",
+  "rank": 81
+ },
+ {
+  "ep": 31,
+  "start": 70.8,
+  "end": 111.4,
+  "score": 6.84,
+  "parts": {
+   "hook": 1.9,
+   "cliff": 1.5,
+   "conflict": 0.5,
+   "standalone": 1.0,
+   "length": 1.34
+  },
+  "hook": "CATHERINE: \"A scarred nobody.\"",
+  "cliffhanger": "CATHERINE: \"[scoffs] Peasants? People?\"",
+  "why": "last line is a question",
+  "rank": 82
+ },
+ {
+  "ep": 23,
+  "start": 60.8,
+  "end": 84.0,
+  "score": 6.83,
+  "parts": {
+   "hook": 1.5,
+   "cliff": 2.3,
+   "conflict": 0.5,
+   "standalone": 1.0,
+   "length": 0.61
+  },
+  "hook": "PRUDENCE: \"What is it?\"",
+  "cliffhanger": "PRUDENCE: \"Poison?\"",
+  "why": "opens on a question; last line is a question",
+  "rank": 83
+ },
+ {
+  "ep": 10,
+  "start": 49.7,
+  "end": 85.9,
+  "score": 6.74,
+  "parts": {
+   "hook": 2.7,
+   "cliff": 1.0,
+   "conflict": 0.25,
+   "standalone": 1.0,
+   "length": 1.39
+  },
+  "hook": "JULIANA: \"Your scars disagree.\"",
+  "cliffhanger": "ALEXANDER: \"Your touch is the only medicine that has ever eased my pain.\"",
+  "why": "opens on a question",
+  "rank": 84
+ },
+ {
+  "ep": 41,
+  "start": 45.0,
+  "end": 85.5,
+  "score": 6.54,
+  "parts": {
+   "hook": 0.5,
+   "cliff": 1.5,
+   "conflict": 1.5,
+   "standalone": 1.0,
+   "length": 1.44
+  },
+  "hook": "CATHERINE: \"This is the world you thought you belonged to.\"",
+  "cliffhanger": "PRIEST: \"Shall we?\"",
+  "why": "sound sting at the cut",
+  "rank": 85
+ },
+ {
+  "ep": 19,
+  "start": 38.0,
+  "end": 85.5,
+  "score": 6.48,
+  "parts": {
+   "hook": 0.7,
+   "cliff": 1.5,
+   "conflict": 1.75,
+   "standalone": 1.0,
+   "length": 0.93
+  },
+  "hook": "Juliana turns her back on the ruins. Wide tracking shot from behind as Alexander and Juliana walk side by side down the stone path, leaving the smoldering ash b",
+  "cliffhanger": "INFORMANT: \"And when we have the proof?\"",
+  "why": "last line is a question",
+  "rank": 86
+ },
+ {
+  "ep": 14,
+  "start": 0.5,
+  "end": 25.0,
+  "score": 6.44,
+  "parts": {
+   "hook": 1.4,
+   "cliff": 1.5,
+   "conflict": 1.25,
+   "standalone": 1.0,
+   "length": 0.69
+  },
+  "hook": "Juliana's blood-streaked, mud-caked hand slowly uncurls amidst the thorns, revealing the ornate emerald signet ring resting in her palm.",
+  "cliffhanger": "ALEXANDER: \"What have they done to you?\"",
+  "why": "last line is a question",
+  "rank": 87
+ },
+ {
+  "ep": 12,
+  "start": 10.0,
+  "end": 32.4,
+  "score": 6.41,
+  "parts": {
+   "hook": 2.5,
+   "cliff": 1.5,
+   "conflict": 0.25,
+   "standalone": 1.0,
+   "length": 0.56
+  },
+  "hook": "CONSTABLE: \"I found it there myself.\"",
+  "cliffhanger": "CLARISSA: \"...still defending your broken scrap of a man?\"",
+  "why": "shouted line; last line is a question",
+  "rank": 88
+ },
+ {
+  "ep": 6,
+  "start": 0.0,
+  "end": 27.7,
+  "score": 6.38,
+  "parts": {
+   "hook": 1.4,
+   "cliff": 1.5,
+   "conflict": 1.0,
+   "standalone": 1.0,
+   "length": 0.88
+  },
+  "hook": "Juliana lifts the hem of her white satin wedding gown to keep it out of the pooling mud, shivering under her dark hooded cloak.",
+  "cliffhanger": "JULIANA: \"That is it?\"",
+  "why": "last line is a question",
+  "rank": 89
+ },
+ {
+  "ep": 31,
+  "start": 131.0,
+  "end": 155.2,
+  "score": 6.07,
+  "parts": {
+   "hook": 2.0,
+   "cliff": 1.0,
+   "conflict": 1.0,
+   "standalone": 1.0,
+   "length": 0.67
+  },
+  "hook": "CATHERINE: \"Enough!\"",
+  "cliffhanger": "CATHERINE: \"One flame, and your mother's life's work becomes ash.\"",
+  "why": "shouted line",
+  "rank": 90
+ },
+ {
+  "ep": 6,
+  "start": 81.0,
+  "end": 109.0,
+  "score": 6.05,
+  "parts": {
+   "hook": 3.4,
+   "cliff": 0.0,
+   "conflict": 0.75,
+   "standalone": 1.0,
+   "length": 0.9
+  },
+  "hook": "He strikes flint and steel together over dry kindling, igniting bright sparks that catch into a flickering flame.",
+  "cliffhanger": "JULIANA: \"Sitting here with him, I don't feel afraid.\"",
+  "why": "physical action",
+  "rank": 91
+ },
+ {
+  "ep": 48,
+  "start": 0.0,
+  "end": 37.1,
+  "score": 6.0,
+  "parts": {
+   "hook": 0.7,
+   "cliff": 1.5,
+   "conflict": 0.75,
+   "standalone": 1.0,
+   "length": 1.45
+  },
+  "hook": "Catherine, adorned in an ornate dark burgundy gown with braided golden hair, gazes out the dark window before turning slowly with a cold, venomous smirk.",
+  "cliffhanger": "CATHERINE: \"Everyone in that chapel saw me humiliated today.\"",
+  "why": "sound sting at the cut",
+  "rank": 92
+ },
+ {
+  "ep": 48,
+  "start": 26.8,
+  "end": 69.0,
+  "score": 5.9,
+  "parts": {
+   "hook": 1.5,
+   "cliff": 1.0,
+   "conflict": 0.75,
+   "standalone": 1.0,
+   "length": 1.25
+  },
+  "hook": "Agnes, dressed in a grey maid's dress and white apron, steps inside with cautious hesitation and clasps her hands.",
+  "cliffhanger": "CATHERINE: \"That is precisely your job tonight.\"",
+  "why": "opens on a question",
+  "rank": 93
+ },
+ {
+  "ep": 39,
+  "start": 0.0,
+  "end": 36.5,
+  "score": 5.85,
+  "parts": {
+   "hook": 0.0,
+   "cliff": 2.3,
+   "conflict": 0.25,
+   "standalone": 1.0,
+   "length": 1.38
+  },
+  "hook": "Men in work clothes stack wooden crates onto the back of a large carriage as horses snort restlessly in the morning mist.",
+  "cliffhanger": "CART DRIVER: \"Firewood for the kitchens, sir.\"",
+  "why": "sound sting at the cut",
+  "rank": 94
+ },
+ {
+  "ep": 42,
+  "start": 1.0,
+  "end": 26.5,
+  "score": 5.8,
+  "parts": {
+   "hook": 0.7,
+   "cliff": 1.5,
+   "conflict": 1.25,
+   "standalone": 1.0,
+   "length": 0.75
+  },
+  "hook": "Alexander strides deliberately through the pulverized cathedral doorway. Dressed in the regal ducal coat with gold braided cuffs and a lion crest, his scarred f",
+  "cliffhanger": "BLOND NOBLEMAN: \"Why?!\"",
+  "why": "last line is a question",
+  "rank": 95
+ },
+ {
+  "ep": 17,
+  "start": 56.5,
+  "end": 90.0,
+  "score": 5.59,
+  "parts": {
+   "hook": 2.0,
+   "cliff": 0.8,
+   "conflict": 0.25,
+   "standalone": 1.0,
+   "length": 1.22
+  },
+  "hook": "JULIANA: \"I was frightened.\"",
+  "cliffhanger": "JULIANA: \"This is becoming impossible.\"",
+  "why": "opens on a question",
+  "rank": 96
+ },
+ {
+  "ep": 21,
+  "start": 4.2,
+  "end": 39.5,
+  "score": 5.46,
+  "parts": {
+   "hook": 1.5,
+   "cliff": 0.8,
+   "conflict": 0.5,
+   "standalone": 1.0,
+   "length": 1.34
+  },
+  "hook": "PRUDENCE: \"Lady Juliana! Please! You have to help me, Toby is dying!\"",
+  "cliffhanger": "PRUDENCE: \"He is only seven! If you do not come, he will die! You are his only hope, Lady Juliana!\"",
+  "why": "shouted line",
+  "rank": 97
+ },
+ {
+  "ep": 50,
+  "start": 12.0,
+  "end": 48.0,
+  "score": 4.25,
+  "parts": {
+   "hook": 0.5,
+   "cliff": 0.8,
+   "conflict": 0.25,
+   "standalone": 1.0,
+   "length": 1.38
+  },
+  "hook": "CATHERINE: \"Then let's stop pretending this was only appetite.\"",
+  "cliffhanger": "CATHERINE: \"Done. You told yourself this ends when the hearing does.\"",
+  "why": "high dialogue density",
+  "rank": 98
+ },
+ {
+  "ep": 41,
+  "start": 14.0,
+  "end": 52.4,
+  "score": 3.93,
+  "parts": {
+   "hook": 1.2,
+   "cliff": 0.0,
+   "conflict": 0.25,
+   "standalone": 1.0,
+   "length": 1.48
+  },
+  "hook": "CATHERINE: \"Bring her in.\"",
+  "cliffhanger": "CATHERINE: \"And now they can all see what you truly are.\"",
+  "why": "high dialogue density",
+  "rank": 99
+ }
+]
